@@ -1,0 +1,1 @@
+Repositório para organizar os projetos realizados com a biblioteca Gradio
